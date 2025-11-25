@@ -3,4 +3,4 @@
 2. Prijava
 3. Pregled Dogotkov
 4. Ustavrjanje dogotka
-5. POvabilo na dogodek
+5. Povabilo na dogodek
